@@ -1,0 +1,9 @@
+Package: com.angelicknight.usaa-bypass
+Name: USAA Bypass
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Bypasses jailbreak detection on the USAA mobile app.
+Maintainer: AngelicKnight <admin@angelicknight.com>
+Author: AngelicKnight
+Section: Tweaks
